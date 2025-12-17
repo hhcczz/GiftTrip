@@ -85,7 +85,52 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/79311119-adfa-4e51-a4d8-9b1a47534548" width="100%" height="100%">
-      AI가 분석한 여행지 추천 화면t     </td>
+      AI가 분석한 여행지 추천 화면
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7a7fc5db-d7d7-446c-94b9-83b06b4085c5" width="100%" height="100%">
+      여행 요소 선택 화면
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f8ed36f6-f314-4045-9c7f-90ebf06b66a8" width="100%" height="100%">
+      좋아요/싫어요 및 요소 정보 확인
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/49e7cc24-795a-48b7-a6dc-747827ea3e20" width="100%" height="100%">
+      최종 초안 완성 전 여행 요소 선택
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9564d430-ee7b-472c-b565-73ffb0932fd6" width="100%" height="100%">
+      최종 초안
+    </td>
   </tr>
 </table>
 
@@ -93,6 +138,6 @@
 
 # 📄 기술 문서
 
-+ 📘 [논문](./GameDesign.pdf)
-+ 📘 [발표자료]()
++ 📘 [논문](./Thesis_GiftTrip.hwp)
++ 📘 [발표자료](./PPT_GiftTrip.pptx)
 
