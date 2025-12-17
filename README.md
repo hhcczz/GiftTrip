@@ -139,5 +139,5 @@
 # 📄 기술 문서
 
 + 📘 [논문](./Thesis_GiftTrip.hwp)
-+ 📘 [발표자료](./PPT_GiftTrip.pptx)
++ 📘 [발표자료](./PPT_GiftTrip.pdf)
 
